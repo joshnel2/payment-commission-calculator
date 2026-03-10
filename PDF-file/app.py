@@ -20,7 +20,8 @@ def get_azure_client():
     return AzureOpenAI(
         azure_endpoint=os.environ.get("AZURE_OPENAI_ENDPOINT"),
         api_key=os.environ.get("AZURE_OPENAI_API_KEY"),
-        api_version=os.environ.get("AZURE_OPENAI_API_VERSION", "2024-02-15-preview")
+        api_version=os.environ.get("AZURE_OPENAI_API_VERSION", "2024-02-15-preview"),
+        deployment=os.environ.get("AZURE_OPENAI_DEPLOYMENT_NAME")
     )
 
 # Neglected attorneys (skip entirely - no commission)
