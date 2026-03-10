@@ -1,5 +1,5 @@
 # Payment Commission Calculator
 
-Web app for calculating payment allocation commissions
+Web app for calculating payment allocation commissions.
 
-Updated.
+Test.
