@@ -13,7 +13,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 app = Flask(__name__)
-app.secret_key = 'payment-commission-calculator-secret-key'
+app.secret_key = os.environ.get('SECRET_KEY', 'payment-commission-calculator-secret-key')
 
 # Azure OpenAI Client
 def get_azure_client():
