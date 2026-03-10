@@ -1,0 +1,9 @@
+Payment/Credit Note date,User,Matter number,Originating attorney,Bill issued at date,Bill due at date,Bill last sent at date,Collected hours value
+02/12/2026,"Alcott, Daniel",12345-001,"Daniel Alcott",01/15/2026,02/15/2026,02/01/2026,5000.00
+02/15/2026,"Locke, Scott",MAESA-2026-001,"Andrew Marks",02/01/2026,03/01/2026,02/10/2026,10000.00
+02/18/2026,"Pagano, Robert",AXIS-555,"Robert Pagano",01/20/2026,02/20/2026,02/05/2026,7500.00
+02/19/2026,"Pagano, Robert",12345-002,"Robert Pagano",01/25/2026,02/25/2026,02/08/2026,3000.00
+02/20/2026,"Warner, David",98765,"Andrew Marks",02/10/2026,03/10/2026,02/15/2026,8000.00
+02/21/2026,"Warner, David",54321,"John Smith",02/12/2026,03/12/2026,02/16/2026,6000.00
+02/22/2026,"Flanders, Martha",JAHNSEN-001,"Daniel Jahnsen",02/05/2026,03/05/2026,02/12/2026,4000.00
+02/23/2026,"Alcott, Laura",JAHNSEN-002,"Daniel Jahnsen",02/08/2026,03/08/2026,02/14/2026,5500.00
